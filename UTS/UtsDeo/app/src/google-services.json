@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81442105002",
+    "project_id": "deouas-47860",
+    "storage_bucket": "deouas-47860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81442105002:android:2913a1260fa856100d92d3",
+        "android_client_info": {
+          "package_name": "com.example.uasdeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81442105002-m7qb2dt0cb3h2k3nr8s7d4kjgfsjuut8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi53eLlcxV4vM9259DaBwbAg_miTvDrPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81442105002-m7qb2dt0cb3h2k3nr8s7d4kjgfsjuut8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

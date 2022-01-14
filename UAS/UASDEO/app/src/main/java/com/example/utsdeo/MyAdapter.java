@@ -1,4 +1,4 @@
-package com.example.uasdeo;
+package com.example.utsdeo;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -20,7 +20,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
     int images[];
     Context context;
 
-    public MyAdapter(MainActivity ct, String[] s1, String[] s2, String[] s3, String[] s4, int[] img, Button btn){
+    public MyAdapter(Home ct, String[] s1, String[] s2, String[] s3, String[] s4, int[] img, Button btn){
         context = ct;
         data1 = s1;
         data2 = s2;

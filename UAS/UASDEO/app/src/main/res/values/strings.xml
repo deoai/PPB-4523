@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Uts Deo</string>
+
+    <string-array name="daftar_makanan">
+        <item>Sate Loso</item>
+        <item>Lontong Dekem</item>
+        <item>Nasi Grombyang</item>
+        <item>Pecak Belut</item>
+        <item>Apem Comal</item>
+        <item>Kraca</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Sate Loso sendiri berbahan utama daging kerbau atau daging sapi yang telah dibacem terlebih dahulu sebelum dibakar</item>
+        <item>Lontong dekem merupakan irisan lontong dengan taburan serundeng yang diberi kuah kuning bersantan.</item>
+        <item>Bahan utamanya dari Nasi Grombyang ini adalah Daging Kerbau yang diiris besar-besar</item>
+        <item>Makanan khas Pemalang berikutnya yaitu pecak belut. Pecak belut ialah belut goreng yang diberi sambal.</item>
+        <item>Apem comal merupakan makanan khas Pemalang yang terbuat dari campuran tepung terigu serta gula jawa.</item>
+        <item>Kraca merupakan makanan berbahan dasar keong, yang dimasak dengan bumbu khas seperti
+            ketumbar, bawang putih,dll</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp25.000</item>
+        <item>Rp12.000</item>
+        <item>Rp14.000</item>
+        <item>Rp35.000</item>
+        <item>Rp2.000</item>
+        <item>Rp5.000</item>
+    </string-array>
+    <string-array name="deksripsi_full">
+        <item>Sate Loso merupakan kuliner khas Pemalang yang konon muncul karena sosok bernama Pak
+            Loso yang berasal dari Weleri. Resepnya turun-temurun ke warga Pemalang yang mencintai
+            sate ini. Tak heran jika kini banyak sekali menjual sate ini di Pemalang. Konon, garis
+            keturunan Pak Loso yang memiliki resep paling asli adalah Sate Loso Pak Mul yang ada di
+            Jalan Urip Sumoharjo dan RM Sate Loso Pah In. Selain kedua kedai itu, adapun kawasan
+            penjual sate khas Pemalang ini bisa ditemui di beberapa sudut Pemalang, yakni di Jalan
+            RE Martadinata di sebelah utara alun-alun Pemalang.</item>
+        <item>Lontong dekem merupakan irisan lontong dengan taburan serundeng yang diberi kuah
+            kuning bersantan. Tidak hanya serundeng, taburan kerupuk dan bawang goreng pun tidak
+            ketinggalan. Biasanya disajikan dengan sate ayam sebagai lauknya.
+            Rasanya khas dan kuah yang hangat memang cocok disantap saat sore atau malam hari.
+            Berikut ini lontong dekem yang paling direkomendasikan di Pemalang.</item>
+        <item>Dalam bahasa Pemalang, Grombyang berarti mengapung di permukaan atau bergoyang-goyang.
+            Mengapa Nasi Grombyang itu identik dengan bergoyang- goyang. Dalam penyajian Nasi
+            Grombyang ini komposisi antara kuah Grombyang dengan nasinya, lebih banyak kuah daripada
+            nasinya. Sehingga nasinya dapat mengapung dan bergoyang-goyang di antara kuah
+            Grombyangnya. Nama Grombyang ini tidak bisa didapati di kota-kota lain, sehingga nama
+            Grombyang sangat ikonik dan unik.</item>
+        <item>Makanan khas Pemalang berikutnya yaitu pecak belut. Pecak belut ialah belut goreng yang diberi sambal.
+            Anda dapat memilih pecak belut santan atau pecak belut sambal kering.
+            Dalam penyajiannya, pecak belut disajikan dengan bawang goreng utuh dan nasi hangat. Rasanya yang
+            pedas nikmat dan menggugah selera membuat pecak belut disukai oleh para pecinta kuliner.</item>
+        <item>Apem comal merupakan makanan khas Pemalang yang terbuat dari campuran tepung terigu
+            serta gula jawa. Apem comal memiliki cita rasa yang gurih dan manis. Harga apem comal
+            pun cukup terjangkau. Cara membuat apem comal terbilang masih sangat tradisional, yaitu
+            dengan menggunakan bakaran anglo. Selain itu, dalam pengemasannya juga masih menggunakan daun pisang.</item>
+        <item>Kraca merupakan makanan berbahan dasar keong, yang dimasak dengan bumbu khas seperti ketumbar, bawang putih, kemiri, dan rempah lainnya.
+            Rasanya yang unik dan khas membuat kraca menjadi salah satu kuliner yang cukup diminati. Jika Anda
+            ingin mencoba kuliner ini, Anda dapat mencoba datang ke warung Mas Kiwil di desa Bodeh, Pemalang.</item>
+    </string-array>
+
+
+</resources>
